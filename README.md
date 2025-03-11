@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/L9mG2cU.png" width="100%" alt="profile" border="0"/>
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/westyasha) 
+[![X](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1024px-X_icon_2.svg.png](https://x.com/westyasha)
+[![Twitch](https://img.freepik.com/premium-vector/twitch-logo_578229-259.jpg](https://www.twitch.tv/westyasha)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Westyasha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
