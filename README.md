@@ -19,7 +19,7 @@
     </a>
     <a href="mailto:alisa.exe2@gmail.com" style="margin-left: 10px;">
       <!-- тут почта кривая вставлена потом пофиксить надо (к выходу гта 6) -->
-      <img src="https://img.shields.io/badge/Email-alisa.exe2%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-me%40westyasha.online-21262d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/>
     </a>
   </p>
 
