@@ -1,20 +1,13 @@
 <div align="center">
 
-  <!-- шапка -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Tz85q7y.jpeg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/7eBSdnS.png">
-  <img src="https://i.imgur.com/GHEegpR.png" width="100%" alt="profile banner" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B4DCA,5B0EA6,0d1117&height=200&section=header&text=hey%2C%20I%27m%20westyasha%20✦&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
 
-  <!-- кнопочки -->
-  <p style="margin-top: 25px; margin-bottom: 25px;">
-    <a href="https://westyasha.online" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/BIO_PROFILE-westyasha.online-21262d?style=for-the-badge&logo=firefox&logoColor=white&labelColor=161b22" alt="Bio Profile"/>
-    </a>
-    <a href="mailto:alisa.exe2@gmail.com" style="margin-left: 10px;">
-      <!-- тут почта кривая вставлена потом пофиксить надо (к выходу гта 6) -->
-      <img src="https://img.shields.io/badge/Email-me%40westyasha.online-21262d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/>
-    </a>
-  </p>
+<a href="https://westyasha.online" target="_blank">
+  <img src="https://img.shields.io/badge/westyasha.online-0d1117?style=for-the-badge&logo=Firefox-Browser&logoColor=C792EA" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:me@westyasha.online">
+  <img src="https://img.shields.io/badge/me@westyasha.online-0d1117?style=for-the-badge&logo=Gmail&logoColor=FF79C6" />
+</a>
+
 </div>
